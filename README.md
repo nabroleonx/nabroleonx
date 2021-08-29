@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabroleonx&label=Profile%20views&color=0e75b6&style=flat" alt="nabroleonx" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering at Bahir Dar University**
+- 🔭 I’m interested in **web applications, machine learning, automation**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🌱 I’m currently learning **Software Engineering at Bahir Dar University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabroleonx&show_icons=true&locale=en&layout=compact" alt="nabroleonx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabroleonx&show_icons=true&locale=en" alt="nabroleonx" /></p>
-
