@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Abel</h1>
 <h3 align="center">Aspiring developer based in Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabroleonx&label=Profile%20views&color=0e75b6&style=flat" alt="nabroleonx" /> </p>
 
 - 🔭 I’m interested in **web applications, machine learning, automation**
 
